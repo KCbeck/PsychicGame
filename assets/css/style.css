@@ -1,0 +1,77 @@
+
+
+.page-header, div{
+background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#questions{
+    margin-left: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    float: left;
+    color:white;
+    background: black;
+}
+#img{
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#guessletter{
+    margin-right: 100px;
+    margin-top:20px;
+    width: 700px;
+    Height: 19.5px;
+}
+#wins{
+    margin-right: 100px;
+    margin-top:20px;
+    width: 700px;
+    Height: 45px;
+}
+#losses{
+    margin-right: 100px;
+    margin-top:20px;
+    width: 700px;
+    Height: 45px;
+}
+#remaining{
+    margin-right: 100px;
+    margin-top:20px;
+    width: 600px;
+    Height: 45px;
+}
+#sofar{
+margin-right:100px;
+margin-top:20px;
+width:700px;
+Height: 45px;
+}
+#box{
+    background-color: olivedrab;
+}
+
+#zoltan{
+    float: right;
+    margin-top:-410px;
+    width: 400px;
+    height: 420px;
+}
+
+.blackbox{
+    border-style:solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: black;
+    height: 102px;
+}
+.footertext {
+color:white;
+ margin-left:35%;
+ margin-right:35%;
+ margin-top:50px;
+}
